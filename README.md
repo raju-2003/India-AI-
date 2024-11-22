@@ -49,3 +49,10 @@ This project leverages advanced **Natural Language Processing (NLP)** techniques
 - The system captures key cybercrime themes and provides structured feedback for users.
 - Sentiment analysis identifies peaks in negative sentiment to indicate spikes in criminal activity.
 - The Random Forest Classifier achieves robust accuracy and handles high-dimensional text data effectively.
+
+---
+
+## 💡 How to Use
+1. Download and Use:
+   ```bash
+   https://drive.google.com/file/d/1mwxB3uQAXCGdjd3nYwsymlLlXZ4fcv8y/view?usp=sharing
